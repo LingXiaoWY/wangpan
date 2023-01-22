@@ -23,7 +23,7 @@ Server类图
 登录&注册界面
 -------------
 <div align=center><img src="https://img.fwfly.com/img/2023/01/23/21lun.jpg" height="765"/> </div>
-<div align=center><img src="https://https://img.fwfly.com/img/2023/01/23/21ms1.jpg" height="765"/> </div>
+<div align=center><img src="https://img.fwfly.com/img/2023/01/23/21ms1.jpg" height="765"/> </div>
 
 主界面
 -------------
