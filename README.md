@@ -20,10 +20,22 @@ Server类图
 -------------
 <div align=center><img src="https://img.fwfly.com/img/2023/01/22/12vtjgu.png" height="765"/> </div>
 
+file建表信息
+-------------
+<div align=center><img src="https://img.fwfly.com/img/2023/01/25/10u09nu.jpg" height="200" width="500"/> </div>
+
+user建表信息
+-------------
+<div align=center><img src="https://img.fwfly.com/img/2023/01/25/10u09s5.jpg" height="150" width="500"/> </div>
+
+user_file建表信息
+-------------
+<div align=center><img src="https://img.fwfly.com/img/2023/01/25/10u09cq.jpg" height="150" width="500"/> </div>
+
 登录&注册界面
 -------------
-<div align=center><img src="https://img.fwfly.com/img/2023/01/23/21lun.jpg" height="765"/> </div>
-<div align=center><img src="https://img.fwfly.com/img/2023/01/23/21ms1.jpg" height="765"/> </div>
+<div align=center><img src="https://img.fwfly.com/img/2023/01/23/21lun.jpg" height="400" width="500"/> </div>
+<div align=center><img src="https://img.fwfly.com/img/2023/01/23/21ms1.jpg" height="400" width="500"/> </div>
 
 主界面
 -------------
