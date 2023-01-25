@@ -22,7 +22,7 @@ Server类图
 
 file建表信息
 -------------
-<div align=center><img src="https://img.fwfly.com/img/2023/01/25/10u09nu.jpg" height="200" width="500"/> </div>
+<div align=center><img src="https://img.fwfly.com/img/2023/01/25/10u09nu.jpg" height="150" width="474"/> </div>
 
 user建表信息
 -------------
